@@ -54,10 +54,9 @@ When the **Special** action is selected, the following occurs based on the battl
 - **Rotating Mode**: Reverses the bottom half of the team.
 - **Optimised Mode**: Toggles the sorting order.
 
-### Battle Tower
+## Battle Tower
 
-In the Battle Tower, the player faces a series of enemy teams. Both the player's and enemy teams has a set number of
-lives. The enemy teams take it in turns to battle the player's team, and the result is either a win/loss or draw. The
+The player faces a series of enemy teams with a battle mode. Both the player's and enemy teams has a set number of lives. The enemy teams take it in turns to battle the player's team, and the result is either a win/loss or draw. The
 losing team loses a life, and in the result of a draw both teams lose a life.
 
 The order in which enemy teams face the player team is determined as follows:
