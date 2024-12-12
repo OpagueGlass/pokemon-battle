@@ -1,4 +1,4 @@
-# Pokemon
+# Pokemon Battle
 
 ## Overview
 
