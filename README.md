@@ -1,7 +1,5 @@
 # Pokemon Battle
 
-## Overview
-
 Building a game using efficient algorithms with optimal basic data structures, while evaluating their performance by
 analysing the best and worst-case Big-O time complexities.
 
